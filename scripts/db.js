@@ -1,5 +1,4 @@
 const mysql = require('mysql');
-require('dotenv').config();
 const util = require('util');
 
 const MYSQL_CONFIG = {
